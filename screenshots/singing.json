@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/singing",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Singing · Watkins Rd.",
+      "hasCanvas": false,
+      "bodyTextLen": 2864,
+      "bodyTextHash": "1d2d91494c9a61a65d22556dc2a49992d9e823791d0df83f744f839f48ed6c2f",
+      "bodyTextPrefix": "Watkins Rd. church of Christ No Key...No Crown Home Singing Serm",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/singing.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Singing · Watkins Rd.",
+      "hasCanvas": false,
+      "bodyTextLen": 2838,
+      "bodyTextHash": "7b3d971fe0cbd8d1e58c9a30620f472dc6da2d6732703e5c4ebc81313386e201",
+      "bodyTextPrefix": "Watkins Rd. church of Christ Call A cappella Instrumental music ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/singing-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/singing.json"
+}

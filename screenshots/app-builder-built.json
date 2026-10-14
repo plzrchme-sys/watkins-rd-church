@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Watkins Rd. church of Christ",
+      "hasCanvas": false,
+      "bodyTextLen": 820,
+      "bodyTextHash": "ea51eca2671b59ed911bf26f8230e1f02a485b4f30981e9be739f1b30ca8e347",
+      "bodyTextPrefix": "Watkins Rd. church of Christ Home Sermons Events Groups Prayer G",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Watkins Rd. church of Christ",
+      "hasCanvas": false,
+      "bodyTextLen": 820,
+      "bodyTextHash": "d98031ecb423a53725c82bcea8889f3d6270b3352d568a0b8824632bc66726f9",
+      "bodyTextPrefix": "Watkins Rd. church of Christ Call Columbus, Ohio A warm welcome ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

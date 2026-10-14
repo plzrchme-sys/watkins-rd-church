@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Watkins Rd. church of Christ",
+      "hasCanvas": false,
+      "bodyTextLen": 948,
+      "bodyTextHash": "52a4637f0a80ed59517b4d8d7bcb6675cf7a91197145559775e5e64d4f13a2b2",
+      "bodyTextPrefix": "Watkins Rd. church of Christ No Key...No Crown Home Sermons Even",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Watkins Rd. church of Christ",
+      "hasCanvas": false,
+      "bodyTextLen": 927,
+      "bodyTextHash": "20a3c2fc33cf64ef43e60f71ab255563d327f7a82e915e9837e965cf88595429",
+      "bodyTextPrefix": "Watkins Rd. church of Christ Call Columbus, Ohio A warm welcome ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
