@@ -38,9 +38,13 @@ function Home() {
           </p>
           <p className="mt-3 max-w-xl text-base text-ink">{church.mottoNote}</p>
           <p className="mt-4 max-w-xl text-base text-muted">
-            Watkins Road church of Christ is a congregation dedicated to the restoration of New
-            Testament Christianity. The Bible, and the Bible only, is the guide in religious
-            matters. You only get to be a true visitor once.
+            The Watkins Road church of Christ is a congregation of God&rsquo;s People dedicated to
+            the restoration of New Testament Christianity. It is our desire to follow the Bible, and
+            the Bible only as our guide in religious matters. The scriptures teach that all
+            Christians should strive for unity in order to evangelize the world and glorify God (John
+            17:20; I Cor. 1:10; Eph. 4:1-6). Knowing that unity is possible when all Christians take
+            the Bible as their sole guide we seek to go back to the ancient order and follow the old
+            paths (Jeremiah 6:16). You only get to be a true visitor once.
           </p>
           <Button asChild className="mt-6">
             <a href={church.mapsUrl}>Directions</a>
